@@ -1,3 +1,7 @@
 Django
 Markdown
 requests
+Martor
+Gunicorn 
+ 
+ 
